@@ -16,10 +16,10 @@
         android:contentDescription="@string/todo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.894"
+        app:layout_constraintHorizontal_bias="0.937"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.239"
+        app:layout_constraintVertical_bias="0.237"
         app:srcCompat="@drawable/photo"
         tools:ignore="ImageContrastCheck" />
 
@@ -46,8 +46,8 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="193dp"
-        android:layout_height="67dp"
+        android:layout_width="190dp"
+        android:layout_height="90dp"
         android:paddingStart="5dp"
         android:paddingEnd="5dp"
         android:text="HELLO I AM DEBASIS PATRA"
@@ -56,16 +56,16 @@
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.06"
+        app:layout_constraintHorizontal_bias="0.109"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.244"
+        app:layout_constraintVertical_bias="0.238"
         tools:ignore="HardcodedText,TextSizeCheck" />
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="380dp"
-        android:layout_height="136dp"
+        android:layout_width="334dp"
+        android:layout_height="159dp"
         android:paddingStart="5dp"
         android:text="Greetings to everyone! I am from berhampur and pursuing my bachelor of technology in VSSUT, burla. I am a newbie in coding, so hoping to learn a lot of new things."
         android:textColor="#FFFFFF"
